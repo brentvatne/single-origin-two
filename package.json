@@ -34,7 +34,6 @@
     "expo-haptics": "~13.0.1",
     "expo-linear-gradient": "~13.0.2",
     "expo-notifications": "~0.28.1",
-    "expo-permissions": "~13.2.0",
     "expo-screen-orientation": "~7.0.4",
     "expo-splash-screen": "~0.27.4",
     "expo-status-bar": "~1.12.1",
