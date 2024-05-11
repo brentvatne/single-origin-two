@@ -23,7 +23,8 @@ function InputSetting(props: Props) {
           tw(
             'text-default dark:text-default-dark rounded-md px-3 py-1 pb-1.5 border border-default dark:border-default-dark'
           ),
-          typography.body,
+          // @ts-ignore: the type here seems incorrect?
+          typography.body.label,
         ]}
         keyboardType="number-pad"
         maxLength={2}
